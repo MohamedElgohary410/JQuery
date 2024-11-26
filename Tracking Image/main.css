@@ -1,0 +1,8 @@
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.focused {
+    transform: scale(1.5);
+}

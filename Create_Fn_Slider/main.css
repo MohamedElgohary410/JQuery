@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    display: inline;
+}
+
+.centrDiv {
+    margin-top: 175px;
+}
